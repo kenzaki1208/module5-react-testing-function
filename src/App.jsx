@@ -12,6 +12,7 @@ const App = () => {
                 <button onClick={() => setCounter(counter - 1)}>Decrement</button>
             </div>
 
+            {/* <div>&copy; CodeGym 2025</div> */}
             <div>&copy; CodeGym 2025</div>
         </>
     );
